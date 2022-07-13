@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:social_share/src/share_defines.dart';
-import 'package:social_share/src/share_plugin.dart';
+import 'package:social_share_plus/src/share_defines.dart';
+import 'package:social_share_plus/src/share_plugin.dart';
 
 import '../utils/adapt.dart';
 import 'share_factory.dart';
@@ -103,7 +103,7 @@ class ShareDialog {
               Image.asset(element.icon,
                   width: Adapt.px(127),
                   height: Adapt.px(127),
-                  package: 'social_share'),
+                  package: 'social_share_plus'),
               Container(
                 margin: EdgeInsets.only(top: Adapt.px(26)),
                 child: Text(

@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:social_share/src/share_register.dart';
+import 'package:social_share_plus/src/share_register.dart';
 
 import 'dialog/share_dialog.dart';
 import 'share_defines.dart';

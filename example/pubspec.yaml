@@ -18,7 +18,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  social_share:
+  social_share_plus:
     # When depending on this package from a real application you should use:
     #   social_share: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints
