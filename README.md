@@ -14,7 +14,7 @@ A plugin supports variety of sharing contents and sharing platforms.
 | **SystemShare** | --- | --- |
 
 ## Preview
-![all.png](https://s2.loli.net/2022/07/13/zTl4wc7PvIAoKx3.png)&emsp;&emsp;&emsp;&emsp;![facebook.png](https://s2.loli.net/2022/07/13/7GV2ObFZRmefxvc.png)  
+![all.png](https://s2.loli.net/2022/07/13/zTl4wc7PvIAoKx3.png)&emsp;&emsp;&emsp;&emsp;![facebook.png](https://s2.loli.net/2022/07/13/7GV2ObFZRmefxvc.png)
 <br/>
 ![wechat.png](https://s2.loli.net/2022/07/13/8Y3MSJEzjAulVrf.png)!&emsp;&emsp;&emsp;&emsp;![line.png](https://s2.loli.net/2022/07/13/kNEgYvhC54QPBIa.png)    
 
