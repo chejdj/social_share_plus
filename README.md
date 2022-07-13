@@ -13,6 +13,7 @@ A plugin supports variety of sharing contents and sharing platforms.
 | **WhatsApp**| **Text/Image/File** | **Andorid/iOS**|
 | **SystemShare** | --- | --- |
 
+## Preview
 ![all.png](https://s2.loli.net/2022/07/13/zTl4wc7PvIAoKx3.png)                    ![facebook.png](https://s2.loli.net/2022/07/13/7GV2ObFZRmefxvc.png)  
 ![whatsapp.png](https://s2.loli.net/2022/07/13/jRocnECOTvaAUdQ.png)                    ![wechat.png](https://s2.loli.net/2022/07/13/8Y3MSJEzjAulVrf.png)                    ![line.png](https://s2.loli.net/2022/07/13/kNEgYvhC54QPBIa.png)    
 
