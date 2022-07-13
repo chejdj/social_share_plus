@@ -13,8 +13,8 @@ A plugin supports variety of sharing contents and sharing platforms.
 | **WhatsApp**| **Text/Image/File** | **Andorid/iOS**|
 | **SystemShare** | --- | --- |
 
-![all.png](https://s2.loli.net/2022/07/13/L6q5pDtOSfMNbBl.jpg)  ![facebook.png](https://s2.loli.net/2022/07/13/P5vh7mUY9fuectG.jpg)  
-![whatsapp.png](https://s2.loli.net/2022/07/13/edq2A3S9OQaZKEx.jpg) ![wechat.png](https://s2.loli.net/2022/07/13/342FbwsHMdEpLli.jpg)  ![line.png](https://s2.loli.net/2022/07/13/oDKvgL6fYyQrIeA.jpg)  
+![all.png](https://s2.loli.net/2022/07/13/dkpnsLPI2JtayTw.png)  ![facebook.png](https://s2.loli.net/2022/07/13/VN9sfkxd4yrbFZL.png)    
+![whatsapp.png](https://s2.loli.net/2022/07/13/P6mS4wNxVY5XftF.png) ![wechat.png](https://s2.loli.net/2022/07/13/7PlOmN6GRCLxtHd.png)  ![line.png](https://s2.loli.net/2022/07/13/g8qTODQZGEAcvre.png)  
 
 ## Usage
 ### reigster
@@ -46,11 +46,11 @@ LaShareParamsBean generateBean() {
           errorCallBack,
         );
 ```  
-### 3. check App whether install
+#### 3. check App whether install
 ```
 LaSharePlugin.isClientInstalled(LaSharePlatforms.whatsApp);
 ```  
-### 4. pop share dialog
+#### 4. pop share dialog
 ```
    LaSharePlugin.startShare(generateBean(),notInstallCallBack,successCallBack,errorCallBack);
 ```  
