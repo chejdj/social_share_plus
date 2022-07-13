@@ -18,10 +18,9 @@ class Adapt {
   static final double _textScaleFactor = mediaQuery.textScaleFactor;
   //设计图宽度
   static int designWidth = 1080;
-  static var _ratio;
+  static double? _ratio;
   static init(int number) {
-    int uiwidth = number is int ? number : designWidth;
-    _ratio = _width / uiwidth;
+    _ratio = _width / number;
   }
 
   static px(number) {
