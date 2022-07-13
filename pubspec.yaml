@@ -1,7 +1,8 @@
 name: social_share
-description: A new Flutter project.
+description: A plugin supports variety of sharing contents and sharing platforms.
 version: 0.0.1
-homepage:
+homepage: https://github.com/chejdj
+repository: https://github.com/chejdj/social_share
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
